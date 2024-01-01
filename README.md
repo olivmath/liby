@@ -3,5 +3,6 @@
 **RUN BEFORE COMMIT**
 
 ```
+poetry install
 pre-commit install
 ```

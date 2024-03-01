@@ -30,7 +30,7 @@ conventional-pre-commit = "^3.0.0"
 pre-commit = "^3.0.3"
 coverage = "^7.2.7"
 pyclean = "^2.2.0"
-pytest = "^7.2.1"
+pytest = "^8.0.2"
 black = "^23.1.0"
 
 [build-system]
